@@ -93,6 +93,3 @@ Mahmoud
 Aspiring Data Analyst passionate about SQL, Power BI, Data Modeling, and Business Intelligence.
 
 
-Mahmoud
-
-Aspiring Data Analyst passionate about SQL, Power BI, Data Modeling, and Business Intelligence.
